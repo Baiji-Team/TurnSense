@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./image/Baiji_Team.png" alt="Baiji Team Logo" width="800" height="400"/>
+<img src="./image/Baiji_Team.png" alt="Baiji Team Logo" width="1000" height="500"/>
 
 <br/>
 
