@@ -10,9 +10,7 @@
 
 <br/>
 
-```
 <center><strong>47M Parameters ｜ CPU Latency ~55ms ｜ F1 up to 96.35% ｜ Invalid Utterance Filtering</strong></center>
-```
 
 <br/>
 
