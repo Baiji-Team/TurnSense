@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./image/Baiji_Team.png" alt="Baiji Team Logo" width="400" height="200"/>
+<img src="./image/Baiji_Team.png" alt="Baiji Team Logo" width="600" height="300"/>
 
 <br/>
 
@@ -10,9 +10,7 @@
 
 <br/>
 
-```
-47M 参数 ｜ CPU 延迟 ~55ms ｜ F1 高达 96.35% ｜ 无效语义过滤
-```
+<center><strong>47M 参数 ｜ CPU 延迟 ~55ms ｜ F1 高达 96.35% ｜ 无效语义过滤</strong></center>
 
 <br/>
 
@@ -82,7 +80,7 @@
 传统方案通常只做"是否结束"的二分类判断。**TurnSense 更进一步** — 它同时建模语义完整度与无效输入识别，帮助系统在复杂真实场景下实现更自然的轮次衔接，**大幅减少误打断、抢话和无效触发**。
 
 <div align="center">
-  <img src="./image/TurnSense.png" alt="TurnSense 三分类示意图" width="820"/>
+  <img src="./image/TurnSense.svg" alt="TurnSense 三分类示意图" width="820"/>
 </div>
 
 <br/>
