@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./image/Baiji_Team.png" alt="Baiji Team Logo" width="400" height="200"/>
+<img src="./image/Baiji_Team.png" alt="Baiji Team Logo" width="1000" height="500"/>
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 <br/>
 
-```
-47M Parameters ｜ CPU Latency ~55ms ｜ F1 up to 96.35% ｜ Invalid Utterance Filtering
-```
+
+<center><strong>47M Parameters ｜ CPU Latency ~55ms ｜ F1 up to 96.35% ｜ Invalid Utterance Filtering</strong></center>
+
 
 <br/>
 
@@ -82,7 +82,7 @@
 Traditional approaches typically rely on a simple binary classification — "finished or not." **TurnSense goes further** by simultaneously modeling semantic completeness and invalid input detection, enabling more natural turn-taking in complex real-world scenarios and **significantly reducing false interruptions, premature responses, and noise-triggered activations**.
 
 <div align="center">
-  <img src="./image/TurnSense.png" alt="TurnSense Three-Class Illustration" width="820"/>
+  <img src="./image/TurnSense.svg" alt="TurnSense Three-Class Illustration" width="820"/>
 </div>
 
 <br/>
