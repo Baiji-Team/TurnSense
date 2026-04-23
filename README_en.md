@@ -25,7 +25,7 @@
 
 <br/>
 
-**Language**: **English** | [中文](./README_zh.md)
+**Language**: **English** | [中文](./README.md)
 
 <br/>
 
