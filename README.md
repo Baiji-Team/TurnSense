@@ -9,9 +9,9 @@
 ### 🎯 轻量 · 精准 · 三分类 — 重新定义语音轮次判别
 
 <br/>
-```
+
 <center><strong>47M 参数 ｜ CPU 延迟 ~55ms ｜ F1 高达 96.35% ｜ 无效语义过滤</strong></center>
-```
+
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Baiji--Team/TurnSense-181717?style=for-the-badge&logo=github)](https://github.com/Baiji-Team/TurnSense)
